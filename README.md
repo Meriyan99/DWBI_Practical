@@ -8,6 +8,7 @@
 ![archi](https://github.com/Meriyan99/DWBI_Practical/assets/128514985/21c70905-7001-4e45-9218-c99bc5d78bc8)
 
 ## Schema Design
+#### This Data Warehouse follows a Snowflake Schema Since all the dimensions are not directly connected with the fact table.
 
 ![dwbi_schema drawio](https://github.com/Meriyan99/DWBI_Practical/assets/128514985/e636a906-6901-4919-bd2c-9dde49089ccb)
 
